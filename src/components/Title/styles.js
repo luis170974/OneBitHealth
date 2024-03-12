@@ -3,8 +3,8 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
     boxTitle: {
-        marginTop: 100,
-        marginBottom: 50,
+        marginTop: 50,
+        marginBottom: 20,
         alignItems: 'center',
         justifyContent: 'center',
         
